@@ -1,4 +1,4 @@
-﻿**UN_CODING App: Understanding**
+﻿**UN_CODING App: Understanding Coding**
 
 This is an offline application mainly used to scan docs and fetch text from it to stored in your phone memory, internal storage and external storage on your Android Device.
 
