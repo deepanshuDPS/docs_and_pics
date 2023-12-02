@@ -1,22 +1,22 @@
-﻿**UN_CODING App: Understanding Coding**
+﻿**OCR App: Text Scanner (PDF Editor)**
 
-This is an offline application mainly used to learn coding and fetch text from it to stored in your phone memory, internal storage and external storage on your Android Device.
+This is an offline application mainly used to scan docs and fetch text from it to stored in your phone memory, internal storage and external storage on your Android Device.
 
 **Privacy Policy**
 
-The *UnCoding* app is built by DPS Productions and deployed on Google Play Store as a free app. This Service is provided by Deepanshu at no cost and is intended for use as is.
+The *OCR Text Scanner* app is built by DPS Productions and deployed on Google Play Store as a free app. This Service is provided by Deepanshu at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service or making our application better for use. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at *UnCoding* unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at *OCR Text Scanner* unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will not be retained on your device and is collected by me to explore your data and make our services better than before. The information we are collecting will not be open to all, we cannot share this information with any other organization.
 
-All your personal information related to coding and programs, your history will be stored with the app.
+All your personal information related to stored pdf files and any type of images scanned, your history will be stored on your device.
 
 The app does use third-party services that may collect information used to identify you. Link to the privacy policy of third party service providers used by the app:
 
